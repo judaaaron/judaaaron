@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.linkedin.com/in/jud%C3%A1-aaron-ponce-1672a3248
