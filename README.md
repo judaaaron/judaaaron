@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judaaaron&show_icons=true&theme=tokyonight)
+![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judaaaron&langs_count=8)
 <!--
 **judaaaron/judaaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
