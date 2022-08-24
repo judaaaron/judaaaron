@@ -1,4 +1,5 @@
-### Hi there, I'm software engineering, actually ending my last year.👋
+### Hi there👋, my name is Juda Ponce
+I'm software engineering student, currently finishing my last year of study. I love front-end development.
 
 
 <img src= "https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff"/> <img src = "https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff"/> <img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff"/> <img src ="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=fff"/> <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff"/>
