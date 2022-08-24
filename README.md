@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm software engineering, actually ending my last year.👋
 
+
+<img src= "https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff"/> <img src = "https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff"/> <img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff"/> <img src ="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=fff"/> <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff"/>
+<br>
 ![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judaaaron&layout=compact&langs_count=8&theme=dark)
 <br>
 <br>
