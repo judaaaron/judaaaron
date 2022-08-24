@@ -1,6 +1,5 @@
 ### Hi there👋, my name is Juda Ponce
-I'm software engineering student, currently finishing my last year of study. I usually work in web and mobile development.
-
+I'm software engineering student, currently finishing my last year of study. I usually work in web and mobile development. Always open to learning new things, tools, technologies, etc.
 
 <img src= "https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff"/> <img src = "https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff"/> <img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff"/> <img src ="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=fff"/> <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff"/>
 <br>
